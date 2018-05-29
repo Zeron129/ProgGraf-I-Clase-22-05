@@ -3,3 +3,4 @@ ProyectClass-22-05/\.vs/
 **/bin
 **/Game/Debug
 **/Game/Release
+!**/allegro_5.1.12_x86/bin
